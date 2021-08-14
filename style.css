@@ -181,3 +181,37 @@
     border-bottom:2px solid orange;
     transition:0.5s;
 
+}
+.keypoint{
+    padding:50px;
+}
+.keypoint h2{
+    color:black;
+    padding:10px;
+    text-align:center;
+    font-size: 35px;   
+}
+.keypoint .key_container{
+    display:flex;
+}
+.keypoint .key_container  .key_content{
+    width:40%;
+    padding:20px;
+    float:left;
+}
+.keypoint .key_container .key_content li{
+    margin:10px;
+    padding:10px;
+    border-left:2px  solid brown;
+    text-align:left;
+    font-family:cosmic,sans-serif;
+    box-shadow:0px 3px 65px 0px rgba(0,0,0,.15);
+}
+.keypoint .key_container .key_img{
+    width:40%;
+    float:right;
+    margin-left:100px;
+}
+.keypoint .key_container .key_img img{
+    width:100%;
+}
