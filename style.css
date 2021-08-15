@@ -265,3 +265,81 @@
     font-size:15px;
     font-family:cosmic,sans-serif;
 }
+footer{
+    background-color:#c9ffe5;
+    padding:50px;
+}
+footer .pages{
+    text-align:center;
+
+}
+footer .pages h3{
+    color:black;
+    font-size:20px;
+    font-family:cosmic,sans-serif;
+    padding:5px;
+}
+footer .pages a{
+    text-decoration:none;
+    margin:10px;
+    font-family:cosmic,sans-serif;
+    font-size:15px;
+}
+footer .pages a:hover{
+    color:yellowgreen;
+}
+footer .doc{
+    text-align:center;
+
+}
+footer .doc h3{
+    color:black;
+    font-size:20px;
+    font-family:cosmic,sans-serif;
+    padding:5px;
+}
+footer .doc a{
+    text-decoration:none;
+    margin:10px;
+    font-family:cosmic,sans-serif;
+    font-size:15px;
+}
+footer .doc a:hover{
+    color:yellowgreen;
+}
+footer .social{
+    text-align:center;
+
+}
+footer .social h3{
+    color:black;
+    font-size:20px;
+    font-family:cosmic,sans-serif;
+    padding:5px;
+}
+footer .social a{
+    font-size:30px;
+    margin:10px;
+    
+}
+footer .social a:hover{
+    color:yellowgreen;
+}
+footer .contact{
+    text-align:center;
+
+}
+footer .contact h3{
+    color:black;
+    font-size:20px;
+    font-family:cosmic,sans-serif;
+    padding:5px;
+}
+footer .contact a{
+    font-size:30px;
+    margin:10px;
+    
+}
+footer .contact a:hover{
+    color:yellowgreen;
+}
